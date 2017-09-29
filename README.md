@@ -1,2 +1,2 @@
 ScreenShot:
-![sample](./screenshot/Screenshot.png)
+<img src="./screenshot/Screenshot.png" style="width: 50%;">
